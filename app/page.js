@@ -141,7 +141,7 @@ export default function PodcastLandingPage() {
                 <strong className="text-white block mb-1 flex items-center justify-between">
                   <span className="flex items-center gap-2">
                     <span className="w-2 h-2 rounded-full bg-[#997819]"></span>{" "}
-                    Production Space
+                    Studio Production
                   </span>
                   <span className="text-[#997819] text-xs opacity-0 group-hover:opacity-100 transition-opacity">
                     Explore →
@@ -242,7 +242,7 @@ export default function PodcastLandingPage() {
                 "Long-term media partnership and strategic scaling.",
               ].map((step, index) => (
                 <li key={index} className="flex items-start gap-4">
-                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[#12066a] text-[#997819] flex items-center justify-center font-bold text-sm border border-[#997819]/40">
+                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[#12066a] text-white flex items-center justify-center font-bold text-sm border border-[#997819]/40">
                     0{index + 1}
                   </span>
                   <span className="text-slate-700 font-medium pt-1">

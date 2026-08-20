@@ -12,3 +12,7 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+p {
+  font-family: "Times New Roman", Times, serif; /* Sirf paragraphs par Times New Roman apply hoga */
+}

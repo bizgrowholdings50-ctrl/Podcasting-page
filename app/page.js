@@ -26,7 +26,7 @@ export default function PodcastLandingPage() {
         {/* 1. Header Image Container */}
         <div className="mb-12 relative w-full h-[350px] sm:h-[600px] rounded-2xl overflow-hidden shadow-2xl border border-[#997819]/30 bg-[#12066a]">
           <Image
-            src="/sir-javed-picst.png"
+            src="/sir-javed-picst-Picsart.png"
             alt="BizGrow Media Podcast Studio"
             fill
             priority
